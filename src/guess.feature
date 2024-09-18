@@ -11,14 +11,6 @@ Feature: Guess the word
         When the Breaker joins the Maker's game
         Then the Breaker must guess a word with 5 characters
 
-# Primary keyword
-# Feature
-# Rule
-# Example/Scenario
-# Given
-# Background
-# Scenario Outline/Template
-# Examples/Scenarios
 
 # secondary
 # """ (Doc Strings)
